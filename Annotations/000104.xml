@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pictures</folder>
+	<filename>000104.jpg</filename>
+	<path>D:\DataSet\pictures\000104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2992</width>
+		<height>2992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>volleyball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1514</xmin>
+			<ymin>1164</ymin>
+			<xmax>1991</xmax>
+			<ymax>1661</ymax>
+		</bndbox>
+	</object>
+</annotation>

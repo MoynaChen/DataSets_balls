@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pictures</folder>
+	<filename>000212.jpg</filename>
+	<path>D:\DataSet\pictures\000212.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2992</width>
+		<height>2992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basketball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1200</xmin>
+			<ymin>849</ymin>
+			<xmax>1800</xmax>
+			<ymax>1459</ymax>
+		</bndbox>
+	</object>
+</annotation>
